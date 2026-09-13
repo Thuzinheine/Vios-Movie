@@ -1,0 +1,6 @@
+{
+  "name": "CineJoy - Movies & TV Streaming Hub",
+  "description": "A modern streaming interface for discovering movies and TV shows powered by TMDB data, featuring provider filters, trailers, and personal watchlist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
